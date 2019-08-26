@@ -1,0 +1,15 @@
+.important {
+    float: left;
+    padding: 4px;
+    border: 2px solid greenyellow;
+    background-color: aquamarine;
+    
+}
+.center { 
+    text-align: center;
+    font-style: oblique;
+    color: aliceblue;
+ }
+ .aboutme{
+    color: aliceblue;
+ }
